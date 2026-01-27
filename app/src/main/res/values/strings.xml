@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ECR Demo</string>
+    <string name="hint_amount">Amount in cents (e.g., 1000 = $10.00)</string>
+    <string name="hint_order_id">Order ID (optional)</string>
+    <string name="btn_pay_intent">Pay via Intent</string>
+    <string name="btn_pay_broadcast">Pay via Broadcast</string>
+    <string name="label_response">Response:</string>
+    <string name="response_waiting">Waiting for payment...</string>
+    <string name="response_none">No response yet</string>
+    <string name="ecr_demo_app">ECR Demo App</string>
+</resources>
