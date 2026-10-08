@@ -2,7 +2,12 @@
 
 <p align="center"><i>Demo Android ECR (electronic cash register) application used to test the Zeal ECR integration end to end: it receives Zeal transaction broadcasts and answers them, simulating a real third-party ECR.</i></p>
 
-<p align="center">![Language](https://img.shields.io/badge/lang-Kotlin-7F52FF) ![Stack](https://img.shields.io/badge/stack-Android%20%2F%20Compose-339933) ![Status](https://img.shields.io/badge/status-active-2EA44F) ![Visibility](https://img.shields.io/badge/repo-public-24292F)</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/lang-Kotlin-7F52FF" alt="Language">
+  <img src="https://img.shields.io/badge/stack-Android%20%2F%20Compose-339933" alt="Stack">
+  <img src="https://img.shields.io/badge/status-active-2EA44F" alt="Status">
+  <img src="https://img.shields.io/badge/repo-public-24292F" alt="Visibility">
+</p>
 
 ---
 ## Contents
